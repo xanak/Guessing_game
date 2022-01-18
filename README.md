@@ -45,7 +45,7 @@ rm *.txt
 
 ```
 
-:memo: **Note:**  Here is the [page link](https://www.wikipedia.org/)
+:memo: **Note:**  Here is the [page link](https://xanak.github.io/Guessing_game/)
 
 ![Image](https://eresmama.com/wp-content/uploads/2017/03/AD183D1.jpg)
 
