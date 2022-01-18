@@ -1,15 +1,8 @@
-all: presentation generate run clean
+all: Install Welcome
 
-presentation:
-	@echo "Welcome to the Guessing name"
+Install:
+	brew install cowsay
 
-generate:
-	bash files.sh
-run:
-	bash guessinggame.sh
-
-clean:
-	@echo "Cleaning up..."
-	rm *.txt
-
-
+Welcome:
+	cowsay -f stegosaurus "Welcome to the guessing game"
+	
