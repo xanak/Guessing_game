@@ -1,11 +1,17 @@
 # <font color="orange">Hello, welcome to the Guessing game!</font>
 
-In this game you would be able to:
+## In this game you would be able to:
 
 - Guess the number of archives in the current directory
 - The makefile would be able to generate 1-50 random number of files so, you  have to guess this number. 
 
-Here is the code of my little program: 
+## Another information:
+
+-The date and time at which make was run: January 2022
+
+-Number of lines of code contained in guessinggame.sh: 34
+
+## Here is the code of my little program: 
 
 ```
 #!/bin/bash
@@ -45,7 +51,6 @@ rm *.txt
 
 ```
 
-:memo: **Note:**  Here is the [page link](https://xanak.github.io/Guessing_game/)
+:memo:**Note:**  Here is the [page link](https://xanak.github.io/Guessing_game/)
 
 ![Image](https://eresmama.com/wp-content/uploads/2017/03/AD183D1.jpg)
-
